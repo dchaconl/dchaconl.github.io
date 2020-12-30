@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://example.org/blog/</loc>
+    <lastmod>2020-12-29T18:35:10+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/</loc>
+    <lastmod>2020-12-29T18:35:10+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/blog/2020/12/29/como-aparece-cancer/</loc>
+    <lastmod>2020-12-29T18:35:10+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/blog/2020/12/28/que-es-cancer/</loc>
+    <lastmod>2020-12-28T13:47:08+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/blog/2020/12/20/oncologia/</loc>
+    <lastmod>2020-12-20T09:50:46+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/blog/2020/12/15/tratamiento-oncologico/</loc>
+    <lastmod>2020-12-15T20:39:46+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.org/contacto/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.org/quienes-somos/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.org/servicios/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.org/staff/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.org/tags/</loc>
+  </url>
+  
+</urlset>
