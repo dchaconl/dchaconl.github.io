@@ -33,7 +33,7 @@
   </url>
   
   <url>
-    <loc>/actividad/</loc>
+    <loc>/empresa/actividad/</loc>
   </url>
   
   <url>
@@ -45,11 +45,15 @@
   </url>
   
   <url>
-    <loc>/mision-vision/</loc>
+    <loc>/empresa/</loc>
   </url>
   
   <url>
-    <loc>/quienes-somos/</loc>
+    <loc>/empresa/mision-vision/</loc>
+  </url>
+  
+  <url>
+    <loc>/empresa/quienes-somos/</loc>
   </url>
   
   <url>
@@ -57,7 +61,7 @@
   </url>
   
   <url>
-    <loc>/staff/</loc>
+    <loc>/empresa/staff/</loc>
   </url>
   
   <url>

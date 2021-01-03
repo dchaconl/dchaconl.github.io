@@ -46,10 +46,10 @@ La oncología médica como especialidad ha tenido un gran desarrollo en los últ
     
     <item>
       <title>Actividad Académica</title>
-      <link>/actividad/</link>
+      <link>/empresa/actividad/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/actividad/</guid>
+      <guid>/empresa/actividad/</guid>
       <description>Título 1  link 1 link 2  Título 2  link 1 link 2  Título 3  link 1 link 2  </description>
     </item>
     
@@ -65,20 +65,20 @@ Puede contactarnos en los teléfonos 33 24 72 91 96 y 33 24 72 91 97, o vía cor
     
     <item>
       <title>Misión, Visión y Valores</title>
-      <link>/mision-vision/</link>
+      <link>/empresa/mision-vision/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/mision-vision/</guid>
+      <guid>/empresa/mision-vision/</guid>
       <description>Misión   Ofrecer servicios oncológicos integrales de la mejor CALIDAD, con calidez, vanguardia médica y experiencia de nuestros médicos
 y colaboradores dando a nuestros pacientes y sus familias los mejores tratamientos, PERSONALIZADOS a sus necesidades</description>
     </item>
     
     <item>
       <title>Quiénes Somos</title>
-      <link>/quienes-somos/</link>
+      <link>/empresa/quienes-somos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/quienes-somos/</guid>
+      <guid>/empresa/quienes-somos/</guid>
       <description>¿Quién es Oncoclinic de Occidente?   Somos un equipo médico con 14 AÑOS DE EXPERIENCIA dedicada a PREVENIR, DIAGNOSTICAR, Y TRATAR PACIENTES CON TODO TIPO DE CÁNCER.</description>
     </item>
     
@@ -93,10 +93,10 @@ y colaboradores dando a nuestros pacientes y sus familias los mejores tratamient
     
     <item>
       <title>Staff Médico</title>
-      <link>/staff/</link>
+      <link>/empresa/staff/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/staff/</guid>
+      <guid>/empresa/staff/</guid>
       <description>Dr. EFRAÍN SALAS GONZÁLEZ: Oncología Médica.
   Dr. JORGE RONY PUÑO ATAHUALPA: Oncología Quirúrgica.
   Dr. JUAN CARLOS CANTÓN ROMERO: Oncología Ginecológica y Onco-Fertilidad.</description>
