@@ -33,11 +33,19 @@
   </url>
   
   <url>
+    <loc>/actividad/</loc>
+  </url>
+  
+  <url>
     <loc>/categories/</loc>
   </url>
   
   <url>
     <loc>/contacto/</loc>
+  </url>
+  
+  <url>
+    <loc>/mision-vision/</loc>
   </url>
   
   <url>

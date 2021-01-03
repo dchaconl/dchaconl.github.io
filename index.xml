@@ -44,6 +44,15 @@
     </item>
     
     <item>
+      <title>Actividad Académica</title>
+      <link>/actividad/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/actividad/</guid>
+      <description>Título 1  link 1 link 2  Título 2  link 1 link 2  Título 3  link 1 link 2  </description>
+    </item>
+    
+    <item>
       <title>Contacto</title>
       <link>/contacto/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -51,7 +60,17 @@
       <guid>/contacto/</guid>
       <description>Estamos para ayudarle Las instalaciones de ONCOclinic se encuentran ubicadas en la Torre Médica del
 Hospital Puerta de Hierro.
-Puede contactarnos vía telefónica al 33-3848-5546 o vía correo electrónico en contacto@oncoclinic.</description>
+Puede contactarnos en los teléfonos 33-2472-9196, 33-2472-9197 y 333-137-9918, o vía correo electrónico en esgonco@hotmail.</description>
+    </item>
+    
+    <item>
+      <title>Misión, Visión y Valores</title>
+      <link>/mision-vision/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/mision-vision/</guid>
+      <description>Misión   Ofrecer servicios oncológicos integrales de la mejor CALIDAD, con calidez, vanguardia médica y experiencia de nuestros médicos
+y colaboradores dando a nuestros pacientes y sus familias los mejores tratamientos, PERSONALIZADOS a sus necesidades</description>
     </item>
     
     <item>

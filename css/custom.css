@@ -1,5 +1,6 @@
 /* your styles go here */
 
+ /* HOMEPAGE */
 .box-image-text .image {
   min-height: 200px;
   max-height: 200px;
@@ -7,4 +8,108 @@
 
 .box-simple {
   min-height: 230px;
+}
+
+.home-carousel .dark-mask{
+  background: #294d76;
+}
+
+.home-carousel .owl-theme .owl-controls .owl-page span {
+  background: #aaaaaa;
+}
+
+.box-image-text.blog .author-category {
+  color: #000000;
+}
+
+.box-image-text .content p {
+  color: #000000;
+}
+
+
+/* MENU PRINCIPAL */
+.navbar ul.nav > li.active > a, .navbar ul.nav > li.open > a {
+  border-top: solid 5px #072146;
+}
+
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
+  /*background-color: #1676ff; */
+}
+
+.nav>li {
+  font-size: 14px;
+}
+
+.navbar ul.dropdown-menu li a {
+  color: #000000;
+  font-size: 14px;
+}
+
+
+/* HEADER */
+#top {
+  color: #ffffff;
+}
+
+#top .social a {
+  color: #ffffff;
+}
+
+#heading-breadcrumbs {
+  background: url(../img/texture-onco.png)
+}
+
+.navbar-brand {
+  padding: 0 15px;
+}
+
+
+/* FOOTER */
+#footer {
+  color: #ffffff;
+  background: #294d76;
+}
+
+#copyright {
+  background: #072146;
+  color: #ffffff;
+  padding: 15px 0;
+}
+
+
+
+/* TEXTO E IMAGENES */
+#heading-breadcrumbs h1 {
+  color: #072146;
+}
+
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+  color: #072146;
+}
+
+body {
+  font-size: 16px;
+}
+
+#content {
+  padding-bottom: 20px;
+}
+
+#content li{
+  padding-bottom: 5px;
+}
+
+/* BLOGS */
+#blog-listing-medium .post .date-comments {
+  color: #000000;
+}
+
+.doctor {
+  color: #004857;
+  font-size: 16px;
+
+}
+
+.especialidad {
+  color: #007599;
 }
