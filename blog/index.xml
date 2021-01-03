@@ -1,45 +1,45 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blogs on OncoClinic de Occidente v2</title>
-    <link>https://example.org/blog/</link>
-    <description>Recent content in Blogs on OncoClinic de Occidente v2</description>
+    <title>Blogs on ONCOclinic de occidente</title>
+    <link>/blog/</link>
+    <description>Recent content in Blogs on ONCOclinic de occidente</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-mx</language>
-    <lastBuildDate>Tue, 29 Dec 2020 18:35:10 +0600</lastBuildDate><atom:link href="https://example.org/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 29 Dec 2020 18:35:10 +0600</lastBuildDate><atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>¿Cómo aparece el cáncer?</title>
-      <link>https://example.org/blog/2020/12/29/como-aparece-cancer/</link>
+      <link>/blog/2020/12/29/como-aparece-cancer/</link>
       <pubDate>Tue, 29 Dec 2020 18:35:10 +0600</pubDate>
       
-      <guid>https://example.org/blog/2020/12/29/como-aparece-cancer/</guid>
+      <guid>/blog/2020/12/29/como-aparece-cancer/</guid>
       <description>El cáncer es una enfermedad genética— es decir, es causado por cambios en los genes que controlan la forma como funcionan nuestras células, especialmente la forma como crecen y se dividen.</description>
     </item>
     
     <item>
       <title>¿Qué es el cáncer?</title>
-      <link>https://example.org/blog/2020/12/28/que-es-cancer/</link>
+      <link>/blog/2020/12/28/que-es-cancer/</link>
       <pubDate>Mon, 28 Dec 2020 13:47:08 +0600</pubDate>
       
-      <guid>https://example.org/blog/2020/12/28/que-es-cancer/</guid>
+      <guid>/blog/2020/12/28/que-es-cancer/</guid>
       <description>Conjunto de enfermedades relacionadas Cáncer es el nombre que se da a un conjunto de enfermedades relacionadas. En todos los tipos de cáncer, algunas de las células del cuerpo empiezan a dividirse sin detenerse y se diseminan a los tejidos del derredor.</description>
     </item>
     
     <item>
       <title>La Oncología</title>
-      <link>https://example.org/blog/2020/12/20/oncologia/</link>
+      <link>/blog/2020/12/20/oncologia/</link>
       <pubDate>Sun, 20 Dec 2020 09:50:46 +0600</pubDate>
       
-      <guid>https://example.org/blog/2020/12/20/oncologia/</guid>
+      <guid>/blog/2020/12/20/oncologia/</guid>
       <description>Oncología es la especialidad médica dedicada al diagnóstico y tratamiento de los tumores. Su nombre proviene del griego oncos (tumor) y logos (tratado o ciencia).</description>
     </item>
     
     <item>
       <title>Tratamientos Oncológicos</title>
-      <link>https://example.org/blog/2020/12/15/tratamiento-oncologico/</link>
+      <link>/blog/2020/12/15/tratamiento-oncologico/</link>
       <pubDate>Tue, 15 Dec 2020 20:39:46 +0600</pubDate>
       
-      <guid>https://example.org/blog/2020/12/15/tratamiento-oncologico/</guid>
+      <guid>/blog/2020/12/15/tratamiento-oncologico/</guid>
       <description>El tratamiento oncológico es el uso de cirugías, radiación, medicamentos y otras terapias para curar el cáncer, encoger un cáncer o detener la progresión de un cáncer.</description>
     </item>
     
