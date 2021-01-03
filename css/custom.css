@@ -26,6 +26,9 @@
   color: #000000;
 }
 
+.home-carousel h1 {
+  text-transform: none;
+}
 
 /* MENU PRINCIPAL */
 .navbar ul.nav > li.active > a, .navbar ul.nav > li.open > a {
@@ -63,11 +66,15 @@
   padding: 0 15px;
 }
 
+#top p {
+  font-size: 17px !important;
+}
 
 /* FOOTER */
 #footer {
   color: #ffffff;
   background: #294d76;
+  font-size: 13px;
 }
 
 #copyright {
@@ -76,7 +83,13 @@
   padding: 15px 0;
 }
 
+.text-uppercase {
+  text-transform: none;
+}
 
+#footer h4 {
+  font-size: 16px;
+}
 
 /* TEXTO E IMAGENES */
 #heading-breadcrumbs h1 {
@@ -89,6 +102,12 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 
 body {
   font-size: 16px;
+}
+
+.container img{
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 #content {
@@ -112,4 +131,8 @@ body {
 
 .especialidad {
   color: #007599;
+}
+
+.staff{
+  text-align: center;
 }

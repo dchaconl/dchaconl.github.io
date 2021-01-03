@@ -6,23 +6,23 @@
     <description>Recent content in Blogs on ONCOclinic de occidente</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-mx</language>
-    <lastBuildDate>Tue, 29 Dec 2020 18:35:10 +0600</lastBuildDate><atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 31 Dec 2020 00:50:08 +0600</lastBuildDate><atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>¿Cómo aparece el cáncer?</title>
-      <link>/blog/2020/12/29/como-aparece-cancer/</link>
-      <pubDate>Tue, 29 Dec 2020 18:35:10 +0600</pubDate>
+      <title>¿Qué es el cáncer?</title>
+      <link>/blog/2020/12/31/que-es-cancer/</link>
+      <pubDate>Thu, 31 Dec 2020 00:50:08 +0600</pubDate>
       
-      <guid>/blog/2020/12/29/como-aparece-cancer/</guid>
-      <description>El cáncer es una enfermedad genética— es decir, es causado por cambios en los genes que controlan la forma como funcionan nuestras células, especialmente la forma como crecen y se dividen.</description>
+      <guid>/blog/2020/12/31/que-es-cancer/</guid>
+      <description>Conjunto de enfermedades relacionadas Cáncer es el nombre que se da a un conjunto de enfermedades relacionadas. En todos los tipos de cáncer, algunas de las células del cuerpo empiezan a dividirse sin detenerse y se diseminan a los tejidos del derredor.</description>
     </item>
     
     <item>
-      <title>¿Qué es el cáncer?</title>
-      <link>/blog/2020/12/28/que-es-cancer/</link>
-      <pubDate>Mon, 28 Dec 2020 13:47:08 +0600</pubDate>
+      <title>¿Cómo aparece el cáncer?</title>
+      <link>/blog/2020/12/31/como-aparece-cancer/</link>
+      <pubDate>Thu, 31 Dec 2020 00:49:08 +0600</pubDate>
       
-      <guid>/blog/2020/12/28/que-es-cancer/</guid>
-      <description>Conjunto de enfermedades relacionadas Cáncer es el nombre que se da a un conjunto de enfermedades relacionadas. En todos los tipos de cáncer, algunas de las células del cuerpo empiezan a dividirse sin detenerse y se diseminan a los tejidos del derredor.</description>
+      <guid>/blog/2020/12/31/como-aparece-cancer/</guid>
+      <description>El cáncer es una enfermedad genética— es decir, es causado por cambios en los genes que controlan la forma como funcionan nuestras células, especialmente la forma como crecen y se dividen.</description>
     </item>
     
     <item>
@@ -31,7 +31,8 @@
       <pubDate>Sun, 20 Dec 2020 09:50:46 +0600</pubDate>
       
       <guid>/blog/2020/12/20/oncologia/</guid>
-      <description>Oncología es la especialidad médica dedicada al diagnóstico y tratamiento de los tumores. Su nombre proviene del griego oncos (tumor) y logos (tratado o ciencia).</description>
+      <description>Oncología es la especialidad médica dedicada al diagnóstico y tratamiento de los tumores.
+La oncología médica como especialidad ha tenido un gran desarrollo en los últimos años.</description>
     </item>
     
     <item>
@@ -40,7 +41,7 @@
       <pubDate>Tue, 15 Dec 2020 20:39:46 +0600</pubDate>
       
       <guid>/blog/2020/12/15/tratamiento-oncologico/</guid>
-      <description>El tratamiento oncológico es el uso de cirugías, radiación, medicamentos y otras terapias para curar el cáncer, encoger un cáncer o detener la progresión de un cáncer.</description>
+      <description>El tratamiento oncológico es el uso de cirugías, radiación, medicamentos y otras terapias para curar el cáncer, reducir un cáncer o detener la progresión de un cáncer.</description>
     </item>
     
   </channel>

@@ -6,23 +6,23 @@
     <description>Recent content on ONCOclinic de occidente</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-mx</language>
-    <lastBuildDate>Tue, 29 Dec 2020 18:35:10 +0600</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 31 Dec 2020 00:50:08 +0600</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>¿Cómo aparece el cáncer?</title>
-      <link>/blog/2020/12/29/como-aparece-cancer/</link>
-      <pubDate>Tue, 29 Dec 2020 18:35:10 +0600</pubDate>
+      <title>¿Qué es el cáncer?</title>
+      <link>/blog/2020/12/31/que-es-cancer/</link>
+      <pubDate>Thu, 31 Dec 2020 00:50:08 +0600</pubDate>
       
-      <guid>/blog/2020/12/29/como-aparece-cancer/</guid>
-      <description>El cáncer es una enfermedad genética— es decir, es causado por cambios en los genes que controlan la forma como funcionan nuestras células, especialmente la forma como crecen y se dividen.</description>
+      <guid>/blog/2020/12/31/que-es-cancer/</guid>
+      <description>Conjunto de enfermedades relacionadas Cáncer es el nombre que se da a un conjunto de enfermedades relacionadas. En todos los tipos de cáncer, algunas de las células del cuerpo empiezan a dividirse sin detenerse y se diseminan a los tejidos del derredor.</description>
     </item>
     
     <item>
-      <title>¿Qué es el cáncer?</title>
-      <link>/blog/2020/12/28/que-es-cancer/</link>
-      <pubDate>Mon, 28 Dec 2020 13:47:08 +0600</pubDate>
+      <title>¿Cómo aparece el cáncer?</title>
+      <link>/blog/2020/12/31/como-aparece-cancer/</link>
+      <pubDate>Thu, 31 Dec 2020 00:49:08 +0600</pubDate>
       
-      <guid>/blog/2020/12/28/que-es-cancer/</guid>
-      <description>Conjunto de enfermedades relacionadas Cáncer es el nombre que se da a un conjunto de enfermedades relacionadas. En todos los tipos de cáncer, algunas de las células del cuerpo empiezan a dividirse sin detenerse y se diseminan a los tejidos del derredor.</description>
+      <guid>/blog/2020/12/31/como-aparece-cancer/</guid>
+      <description>El cáncer es una enfermedad genética— es decir, es causado por cambios en los genes que controlan la forma como funcionan nuestras células, especialmente la forma como crecen y se dividen.</description>
     </item>
     
     <item>
@@ -31,7 +31,8 @@
       <pubDate>Sun, 20 Dec 2020 09:50:46 +0600</pubDate>
       
       <guid>/blog/2020/12/20/oncologia/</guid>
-      <description>Oncología es la especialidad médica dedicada al diagnóstico y tratamiento de los tumores. Su nombre proviene del griego oncos (tumor) y logos (tratado o ciencia).</description>
+      <description>Oncología es la especialidad médica dedicada al diagnóstico y tratamiento de los tumores.
+La oncología médica como especialidad ha tenido un gran desarrollo en los últimos años.</description>
     </item>
     
     <item>
@@ -40,7 +41,7 @@
       <pubDate>Tue, 15 Dec 2020 20:39:46 +0600</pubDate>
       
       <guid>/blog/2020/12/15/tratamiento-oncologico/</guid>
-      <description>El tratamiento oncológico es el uso de cirugías, radiación, medicamentos y otras terapias para curar el cáncer, encoger un cáncer o detener la progresión de un cáncer.</description>
+      <description>El tratamiento oncológico es el uso de cirugías, radiación, medicamentos y otras terapias para curar el cáncer, reducir un cáncer o detener la progresión de un cáncer.</description>
     </item>
     
     <item>
@@ -54,13 +55,12 @@
     
     <item>
       <title>Contacto</title>
-      <link>/contacto/</link>
+      <link>/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/contacto/</guid>
-      <description>Estamos para ayudarle Las instalaciones de ONCOclinic se encuentran ubicadas en la Torre Médica del
-Hospital Puerta de Hierro.
-Puede contactarnos en los teléfonos 33-2472-9196, 33-2472-9197 y 333-137-9918, o vía correo electrónico en esgonco@hotmail.</description>
+      <guid>/contact/</guid>
+      <description>Estamos para ayudarle Las instalaciones de ONCOclinic se encuentran ubicadas en la Torre Médica del Hospital Puerta de Hierro.
+Puede contactarnos en los teléfonos 33 24 72 91 96 y 33 24 72 91 97, o vía correo electrónico en oncoclinicd@hotmail.</description>
     </item>
     
     <item>
@@ -83,12 +83,12 @@ y colaboradores dando a nuestros pacientes y sus familias los mejores tratamient
     </item>
     
     <item>
-      <title>Staff Médico</title>
+      <title>Servicios por Especialidad</title>
       <link>/servicios/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/servicios/</guid>
-      <description>Oncología Quirúrgica  En todo tipo cáncer:  Cirugía radical. Cirugía conservadora.   En los tipos de cáncer que aplica:  Cirugía de mínima invasión Alta especialidad en cirugía laparoscópica en oncología.</description>
+      <description>Oncología Médica  Tratamientos altamente personalizados:  Quimioterapia. Terapia hormonal. Terapia biológica (terapia monoclonal, terapia blanco). Terapia inmunológica.   Seguimiento y control posterior al tratamiento.</description>
     </item>
     
     <item>
@@ -97,9 +97,9 @@ y colaboradores dando a nuestros pacientes y sus familias los mejores tratamient
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/staff/</guid>
-      <description>DR. EFRAÍN SALAS GONZÁLEZ: Oncología Médica.
-  DR. JORGE RONY PUÑO ATAHUALPA: Oncología Quirúrgica.
-  DR. JUAN CARLOS CANTÓN ROMERO: Oncología Ginecológica.</description>
+      <description>Dr. EFRAÍN SALAS GONZÁLEZ: Oncología Médica.
+  Dr. JORGE RONY PUÑO ATAHUALPA: Oncología Quirúrgica.
+  Dr. JUAN CARLOS CANTÓN ROMERO: Oncología Ginecológica y Onco-Fertilidad.</description>
     </item>
     
   </channel>
