@@ -45,7 +45,15 @@
   </url>
   
   <url>
+    <loc>/staff/efrain-salas/</loc>
+  </url>
+  
+  <url>
     <loc>/empresa/</loc>
+  </url>
+  
+  <url>
+    <loc>/galeria/</loc>
   </url>
   
   <url>
@@ -53,7 +61,15 @@
   </url>
   
   <url>
+    <loc>/mision-vision/</loc>
+  </url>
+  
+  <url>
     <loc>/empresa/quienes-somos/</loc>
+  </url>
+  
+  <url>
+    <loc>/quienes-somos/</loc>
   </url>
   
   <url>
@@ -62,6 +78,10 @@
   
   <url>
     <loc>/empresa/staff/</loc>
+  </url>
+  
+  <url>
+    <loc>/staff/</loc>
   </url>
   
   <url>

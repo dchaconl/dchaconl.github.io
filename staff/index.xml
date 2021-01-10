@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Staffs on ONCOclinic de occidente</title>
+    <link>/staff/</link>
+    <description>Recent content in Staffs on ONCOclinic de occidente</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-mx</language><atom:link href="/staff/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dr. Efraín Salas González</title>
+      <link>/staff/efrain-salas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/staff/efrain-salas/</guid>
+      <description>ONCOLOGÍA MÉDICA Y MEDICINA INTERNA LICENCIATURA: Médico Cirujano y Partero.
+ESCUELA: Facultad de Medicina, Universidad de Guadalajara.
+PRIMERA ESPECIALIDAD: Medicina Interna.
+ESCUELA: Hospital de Especialidades, UMAE,</description>
+    </item>
+    
+  </channel>
+</rss>
