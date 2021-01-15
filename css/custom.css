@@ -175,6 +175,11 @@ body {
   width: 100%;
 }
 
+.blog-header-img{
+  width: 50%;
+  margin-bottom: 30px;
+}
+
 /* GALERIA */
 
 .gallery {
