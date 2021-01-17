@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ONCOclinic de occidente</title>
+    <title>ONCOclinicfem</title>
     <link>/</link>
-    <description>Recent content on ONCOclinic de occidente</description>
+    <description>Recent content on ONCOclinicfem</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-mx</language>
     <lastBuildDate>Thu, 31 Dec 2020 00:50:08 +0600</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
@@ -59,8 +59,7 @@ La oncología médica como especialidad ha tenido un gran desarrollo en los últ
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/contact/</guid>
-      <description>Estamos para ayudarle Las instalaciones de ONCOclinic se encuentran ubicadas en la Torre Médica del Hospital Puerta de Hierro.
-Puede contactarnos en los teléfonos 33 24 72 91 96 y 33 24 72 91 97, o vía correo electrónico en oncoclinicd@hotmail.</description>
+      <description>Estamos para ayudarle Las instalaciones de ONCOclinicfem se encuentran ubicadas en Av. Patria 197, col. Prados Guadalupe, C.P. 45030, Zapopan, Jalisco, México.</description>
     </item>
     
     <item>
@@ -103,18 +102,7 @@ ESCUELA: Hospital de Especialidades, UMAE,</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/empresa/mision-vision/</guid>
-      <description>Misión   Ofrecer servicios oncológicos integrales de la mejor CALIDAD, con calidez, vanguardia médica y experiencia de nuestros médicos
-y colaboradores dando a nuestros pacientes y sus familias los mejores tratamientos, PERSONALIZADOS a sus necesidades</description>
-    </item>
-    
-    <item>
-      <title>Misión, Visión y Valores</title>
-      <link>/mision-vision/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/mision-vision/</guid>
-      <description>Misión   Ofrecer servicios oncológicos integrales de la mejor CALIDAD, con calidez, vanguardia médica y experiencia de nuestros médicos
-y colaboradores dando a nuestros pacientes y sus familias los mejores tratamientos, PERSONALIZADOS a sus necesidades</description>
+      <description>Misión   Ofrecer servicios oncológicos especializados para CÁNCER DE MAMA Y CÁNCER GINECOLÓGICO integrales de la mejor CALIDAD, con calidez, vanguardia médica y experiencia de nuestros médicos y colaboradores dando a nuestros pacientes y sus familias los mejores tratamientos, PERSONALIZADOS a sus necesidades (en cada una de sus etapas clínicas, subtipo biológico, molecular y genético) DE SU ENFERMEDAD.</description>
     </item>
     
     <item>
@@ -123,16 +111,7 @@ y colaboradores dando a nuestros pacientes y sus familias los mejores tratamient
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/empresa/quienes-somos/</guid>
-      <description>¿Quién es Oncoclinic de Occidente?   Somos un equipo médico con 15 AÑOS DE EXPERIENCIA dedicada a PREVENIR, DIAGNOSTICAR, Y TRATAR PACIENTES CON TODO TIPO DE CÁNCER.</description>
-    </item>
-    
-    <item>
-      <title>Quiénes Somos</title>
-      <link>/quienes-somos/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/quienes-somos/</guid>
-      <description>¿Quién es Oncoclinic de Occidente?   Somos un equipo médico con 15 AÑOS DE EXPERIENCIA dedicada a PREVENIR, DIAGNOSTICAR, Y TRATAR PACIENTES CON TODO TIPO DE CÁNCER.</description>
+      <description>¿Quién es Oncoclinic de Occidente?   Somos un equipo médico con 20 AÑOS EXPERIENCIA EN LA ONCOLOGÍA DE INSTITUCIÓN PUBLICA Y PRIVADA dedicado a PREVENIR, DIAGNOSTICAR, Y TRATAR PACIENTES CON CÁNCER DE MAMA Y CÁNCER GINECOLÓGICO.</description>
     </item>
     
     <item>
@@ -141,7 +120,7 @@ y colaboradores dando a nuestros pacientes y sus familias los mejores tratamient
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/servicios/</guid>
-      <description>Oncología Médica  Tratamientos altamente personalizados:  Quimioterapia. Terapia hormonal. Terapia biológica (terapia monoclonal, terapia blanco). Terapia inmunológica.   Seguimiento y control posterior al tratamiento.</description>
+      <description>Gineco-Oncología  Detección temprana. Prevención (vacunas). Alta especialidad en Colposcopía. Cirugía mamaria y gineco-oncológica. Cirugía radical. Cirugía conservadora. Cirugía oncoplástica. Alta especialidad en cirugía de mínima invasión por laparoscopía.</description>
     </item>
     
     <item>
@@ -152,17 +131,6 @@ y colaboradores dando a nuestros pacientes y sus familias los mejores tratamient
       <guid>/empresa/staff/</guid>
       <description>Todos nuestros especialistas son certificados por los consejos de las diferentes especialidades de la Oncología
 u otras; somos parte de las Sociedades y Colegios nacionales e internacionales más importantes.</description>
-    </item>
-    
-    <item>
-      <title>Staff Médico</title>
-      <link>/staff/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/staff/</guid>
-      <description>Dr. EFRAÍN SALAS GONZÁLEZ: Oncología Médica.
-  Dr. JORGE RONY PUÑO ATAHUALPA: Oncología Quirúrgica.
-  Dr. JUAN CARLOS CANTÓN ROMERO: Oncología Ginecológica y Onco-Fertilidad.</description>
     </item>
     
   </channel>
