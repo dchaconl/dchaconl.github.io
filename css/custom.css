@@ -176,31 +176,44 @@ body {
 .doctor {
   color: #004747;
   font-size: 16px;
-
 }
 
 .especialidad {
   color: #006b6a;
 }
 
-.staff{
+.staff {
   text-align: center;
 }
 
-#blog-post #post-content{
+#blog-post #post-content {
   width: 100%;
 }
 
-.blog-header-img{
+.blog-header-img {
   width: 50%;
   margin-bottom: 30px;
 }
 
-#mapa{
+#mapa {
   display:inline-block;
   float: right;
   margin-left: 10px;
   margin-right: 45px;
+}
+
+.videoblog {
+  position: relative;
+  padding-bottom: 56.25%;
+  height: 0;
+}
+
+.videoblog iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
 }
 
 /* GALERIA */
